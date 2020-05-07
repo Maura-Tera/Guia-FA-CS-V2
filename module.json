@@ -1,0 +1,12 @@
+{
+    "name": "Guia de Dungeons",
+    "options": {
+        "niceName": "Guia de Dungeons",
+        "guiName": "Guia de CS-FA"
+    },
+    "author": "ZC/Maura",
+    "description": "Guia de dungeons CS-FA",
+    "servers": ["https://raw.githubusercontent.com/Maura-Tera/Guia-FA-CS-V2/master"],
+    "supportUrl": "https://github.com/Maura-Tera/Guia-FA-CS-V2/issues",
+    "version": "92.04"
+}
